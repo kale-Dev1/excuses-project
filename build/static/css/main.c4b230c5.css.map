@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c4b230c5.css","mappings":"6FAEA,EACE,qBACF,CAEA,KACE,mCACF","sources":["index.css"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap\");\n\n* {\n  box-sizing: border-box;\n}\n\nhtml {\n  font-family: \"Noto Sans JP\", sans-serif;\n}\n"],"names":[],"sourceRoot":""}
